@@ -1,6 +1,6 @@
 {
   "name": "foam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple soap client",
   "main": "foam.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "hyperquest": "~0.3.0",
     "stream-ext": "~0.0.1",
-    "simple-xml": "~0.0.3"
+    "simple-xml": "~0.0.4"
   },
   "devDependencies": {
     "mocha": "~1.18.2",
